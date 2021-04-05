@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "title": "Grahics Design",
+        "image": "https://images.unsplash.com/photo-1534669740902-e09e38a6a29f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80",
+        "description": "Our exclusive 5-month training program will help you build stellar soft skills and ace any interview.",
+        "list1": "Weekly group sessions",
+        "list2": "Work on a real project",
+        "list3": "Get a dedicated mentor"
+    },
+    {
+        "id": "2",
+        "title": "Learn Web Development",
+        "image": "https://images.unsplash.com/photo-1585247226801-bc613c441316?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80",
+        "description": "Our exclusive 5-month training program will help you build stellar soft skills and ace any interview.",
+        "list1": "Weekly group sessions",
+        "list2": "Work on a real project",
+        "list3": "Get a dedicated mentor"
+    },
+    {
+        "id": "3",
+        "title": "Digital Marketing",
+        "image": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+        "description": "Our exclusive 5-month training program will help you build stellar soft skills and ace any interview.",
+        "list1": "Weekly group sessions",
+        "list2": "Work on a real project",
+        "list3": "Get a dedicated mentor"
+    },
+    {
+        "id": "4",
+        "title": "Video Editing",
+        "image": "https://images.unsplash.com/photo-1545254930-06c375090cbe?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+        "description": "Our exclusive 5-month training program will help you build stellar soft skills and ace any interview.",
+        "list1": "Weekly group sessions",
+        "list2": "Work on a real project",
+        "list3": "Get a dedicated mentor"
+    },
+    {
+        "id": "5",
+        "title": "Machine Learning and It's future",
+        "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+        "description": "Our exclusive 5-month training program will help you build stellar soft skills and ace any interview.",
+        "list1": "Weekly group sessions",
+        "list2": "Work on a real project",
+        "list3": "Get a dedicated mentor"
+    },
+    {
+        "id": "6",
+        "title": "Data Science",
+        "image": "https://images.unsplash.com/photo-1599658880436-c61792e70672?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+        "description": "Our exclusive 5-month training program will help you build stellar soft skills and ace any interview.",
+        "list1": "Weekly group sessions",
+        "list2": "Work on a real project",
+        "list3": "Get a dedicated mentor"
+    }
+
+]
